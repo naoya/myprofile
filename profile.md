@@ -9,3 +9,14 @@
 以下のものを適当に使ってください。
 
 - http://www.flickr.com/photos/naoya1977/1068915117/
+
+ソーシャルメディアアカウント
+----------------------------
+
+- Twitter @naoya_ito
+- github @naoya
+
+そのほか
+--------
+
+- http://naoya.github.io/
