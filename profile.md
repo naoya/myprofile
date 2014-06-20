@@ -8,14 +8,14 @@
 
 以下のものを適当に使ってください。
 
-## 2014年のもの
+### 2014年のもの
 
 ![](https://raw.githubusercontent.com/naoya/myprofile/master/images/profile_01.jpg)
 ![](https://raw.githubusercontent.com/naoya/myprofile/master/images/profile_02.jpg)
 
 taken by [おだんみつ](http://matome.naver.jp/odai/2139520716110081501)
 
-## 結構昔の
+### 結構昔の
 
 - http://www.flickr.com/photos/naoya1977/1068915117/ (taken by Naoya Ito)
 
