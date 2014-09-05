@@ -8,6 +8,13 @@
 
 以下のものを適当に使ってください。
 
+### 最近のもの
+
+![](https://cloud.githubusercontent.com/assets/8991/4159406/e71790e2-34a0-11e4-842c-cb6782c5925e.jpg)
+![](https://cloud.githubusercontent.com/assets/8991/4159408/eb5006a8-34a0-11e4-9294-962667f8b777.jpg)
+
+[YAPC::Asia 2014](http://30d.jp/yapcasia/7)
+
 ### 2014年のもの
 
 ![](https://raw.githubusercontent.com/naoya/myprofile/master/images/profile_01.jpg)
