@@ -8,14 +8,17 @@
 
 以下のものを適当に使ってください。
 
-### 最近のもの
+### 最近のもの (2014年 10月)
+
+![198](https://cloud.githubusercontent.com/assets/8991/6816522/e2bbd9ce-d2d7-11e4-93c2-a28f5d9502ea.JPG)
+![227](https://cloud.githubusercontent.com/assets/8991/6816523/e59694c2-d2d7-11e4-9070-f20da5d83fa0.JPG)
+
+### 前のもの
 
 ![](https://cloud.githubusercontent.com/assets/8991/4159406/e71790e2-34a0-11e4-842c-cb6782c5925e.jpg)
 ![](https://cloud.githubusercontent.com/assets/8991/4159408/eb5006a8-34a0-11e4-9294-962667f8b777.jpg)
 
 [YAPC::Asia 2014](http://30d.jp/yapcasia/7)
-
-### 2014年のもの
 
 ![](https://raw.githubusercontent.com/naoya/myprofile/master/images/profile_01.jpg)
 ![](https://raw.githubusercontent.com/naoya/myprofile/master/images/profile_02.jpg)
